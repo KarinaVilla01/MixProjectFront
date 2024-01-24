@@ -1,17 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "YwRQBGogm1ysuM6Z7gvMSePFuAhXO97ToIbkGn52ffVVkKhza9UPtP/JPMTLc95yrthZshLkEX78AsHhPbbgEA==",
+  "dgSpecHash": "mKf3wD1xnIxb2m37XGwCb7LI4bTdQ0/ziDnOg3PmjkOoMa4gER02J3INXltqeKNXihi6ORJC8tYa7uEdfThYlA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Karin\\source\\repos\\MixprojectFront\\MixprojectFront\\MixprojectFront.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.21\\microsoft.aspnetcore.authorization.6.0.21.nupkg.sha512",
-    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.21\\microsoft.aspnetcore.components.6.0.21.nupkg.sha512",
-    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.21\\microsoft.aspnetcore.components.analyzers.6.0.21.nupkg.sha512",
+    "C:\\Users\\Karin\\.nuget\\packages\\dartsassbuilder\\1.0.0\\dartsassbuilder.1.0.0.nupkg.sha512",
+    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.25\\microsoft.aspnetcore.authorization.6.0.25.nupkg.sha512",
+    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.25\\microsoft.aspnetcore.components.6.0.25.nupkg.sha512",
+    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.25\\microsoft.aspnetcore.components.analyzers.6.0.25.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.21\\microsoft.aspnetcore.components.forms.6.0.21.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.21\\microsoft.aspnetcore.components.web.6.0.21.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.21\\microsoft.aspnetcore.components.webassembly.6.0.21.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\6.0.21\\microsoft.aspnetcore.components.webassembly.devserver.6.0.21.nupkg.sha512",
-    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.21\\microsoft.aspnetcore.metadata.6.0.21.nupkg.sha512",
+    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.25\\microsoft.aspnetcore.metadata.6.0.25.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
@@ -28,12 +29,17 @@
     "C:\\Users\\Karin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\microsoft.jsinterop\\6.0.21\\microsoft.jsinterop.6.0.21.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.21\\microsoft.jsinterop.webassembly.6.0.21.nupkg.sha512",
+    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.1\\microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
+    "C:\\Users\\Karin\\.nuget\\packages\\radzen.blazor\\4.24.2\\radzen.blazor.4.24.2.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\Karin\\.nuget\\packages\\system.linq.dynamic.core\\1.3.7\\system.linq.dynamic.core.1.3.7.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Karin\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.22\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.22.nupkg.sha512"
+    "C:\\Users\\Karin\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.26\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }

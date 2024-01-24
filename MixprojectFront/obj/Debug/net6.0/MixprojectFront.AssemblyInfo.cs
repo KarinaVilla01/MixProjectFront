@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MixprojectFront")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c81f8cdbb18237b73c0327efb7198097b089878")]
 [assembly: System.Reflection.AssemblyProductAttribute("MixprojectFront")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MixprojectFront")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
