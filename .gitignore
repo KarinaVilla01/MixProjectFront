@@ -1,0 +1,6 @@
+# Ignorar la carpeta .vs
+.vs/
+
+# Ignorar carpetas bin y obj
+bin/
+obj/
