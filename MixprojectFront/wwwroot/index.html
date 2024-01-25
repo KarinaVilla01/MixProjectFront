@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>MixprojectFront</title>
     <base href="/" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:wght@300;400;700;900&family=Maven+Pro:wght@400;600&family=Poppins:wght@200;300;400;500;600;800&display=swap" rel="stylesheet">
     <link href="css/app.css" rel="stylesheet" />
     <link href="MixprojectFront.styles.css" rel="stylesheet" />
     <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css">
@@ -26,13 +29,26 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/v/bs5/dt-1.13.8/datatables.min.js"></script>
     <script>
-        function initializeDataTables() {
-            let table = new DataTable('#transitionsTable');
-        }
-
         document.addEventListener('DOMContentLoaded', function () {
-            initializeDataTables();
+            // Escucha el evento Blazor.pageLoading para asegurar que Blazor haya iniciado completamente
+            document.addEventListener('Blazor.pageLoading', function () {
+                initializeDataTables();
+            });
         });
+
+        function initializeDataTables() {
+            console.log("estoy Ejecutandome")
+            DotNet.invokeMethodAsync('MixprojectFront', 'OnLoad')
+                .then(() => {
+                    $('#transitionsTable').DataTable({
+                        paging: true
+                    });
+                    
+                })
+                .catch(error => {
+                    console.error('Error invoking .NET method:', error);
+                });
+        }
     </script>
 </body>
 
